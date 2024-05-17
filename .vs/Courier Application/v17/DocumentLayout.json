@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\couriersystemapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:couriersystemapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\services\\courieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:services\\courieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\services\\icourieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:services\\icourieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\repositories\\icourieruserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:repositories\\icourieruserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\repositories\\courieruserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:repositories\\courieruserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\services\\courieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:services\\courieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\repositories\\courieradminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:repositories\\courieradminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\utility\\connectionutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:utility\\connectionutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\exception\\trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:exception\\trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\exception\\invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:exception\\invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\bin\\Debug\\net6.0\\appSettingsConfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net6.0\\appSettingsConfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\courier_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:courier_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\repositories\\icourieradminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:repositories\\icourieradminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\services\\icourieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:services\\icourieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|c:\\users\\suchintan roy\\source\\repos\\courier application\\models\\couriercomapny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F55B0A-A1EA-48D3-A993-A148F9FB2F3D}|Courier_Application.csproj|solutionrelative:models\\couriercomapny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourierUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Repositories\\CourierUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourierUserRepository.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Repositories\\CourierUserRepository.cs",
+              "RelativeToolTip": "Repositories\\CourierUserRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:26:44.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\Courier.cs",
+              "RelativeDocumentMoniker": "Models\\Courier.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\Courier.cs",
+              "RelativeToolTip": "Models\\Courier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:21:12.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourierUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Repositories\\ICourierUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICourierUserRepository.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Repositories\\ICourierUserRepository.cs",
+              "RelativeToolTip": "Repositories\\ICourierUserRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:27:37.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourierUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Services\\ICourierUserService.cs",
+              "RelativeDocumentMoniker": "Services\\ICourierUserService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Services\\ICourierUserService.cs",
+              "RelativeToolTip": "Services\\ICourierUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:28:53.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourierUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Services\\CourierUserService.cs",
+              "RelativeDocumentMoniker": "Services\\CourierUserService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Services\\CourierUserService.cs",
+              "RelativeToolTip": "Services\\CourierUserService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:28:25.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourierSystemApp.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\CourierSystemApp.cs",
+              "RelativeDocumentMoniker": "CourierSystemApp.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\CourierSystemApp.cs",
+              "RelativeToolTip": "CourierSystemApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:29:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:13:02.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourierAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Repositories\\CourierAdminRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourierAdminRepository.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Repositories\\CourierAdminRepository.cs",
+              "RelativeToolTip": "Repositories\\CourierAdminRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:26:30.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourierAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Services\\CourierAdminService.cs",
+              "RelativeDocumentMoniker": "Services\\CourierAdminService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Services\\CourierAdminService.cs",
+              "RelativeToolTip": "Services\\CourierAdminService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:28:03.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConnectionUtil.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Utility\\ConnectionUtil.cs",
+              "RelativeDocumentMoniker": "Utility\\ConnectionUtil.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Utility\\ConnectionUtil.cs",
+              "RelativeToolTip": "Utility\\ConnectionUtil.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:29:08.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:25:31.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrackingNumberNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Exception\\TrackingNumberNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exception\\TrackingNumberNotFoundException.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Exception\\TrackingNumberNotFoundException.cs",
+              "RelativeToolTip": "Exception\\TrackingNumberNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:16:34.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvalidEmployeeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Exception\\InvalidEmployeeIdException.cs",
+              "RelativeDocumentMoniker": "Exception\\InvalidEmployeeIdException.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Exception\\InvalidEmployeeIdException.cs",
+              "RelativeToolTip": "Exception\\InvalidEmployeeIdException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:15:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICourierAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Repositories\\ICourierAdminRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICourierAdminRepository.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Repositories\\ICourierAdminRepository.cs",
+              "RelativeToolTip": "Repositories\\ICourierAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:27:06.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appSettingsConfig.json",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\bin\\Debug\\net6.0\\appSettingsConfig.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net6.0\\appSettingsConfig.json",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\bin\\Debug\\net6.0\\appSettingsConfig.json",
+              "RelativeToolTip": "bin\\Debug\\net6.0\\appSettingsConfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T15:31:53.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICourierAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Services\\ICourierAdminService.cs",
+              "RelativeDocumentMoniker": "Services\\ICourierAdminService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Services\\ICourierAdminService.cs",
+              "RelativeToolTip": "Services\\ICourierAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:28:39.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Models\\Location.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\Location.cs",
+              "RelativeToolTip": "Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:22:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:22:45.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:22:53.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourierComapny.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\CourierComapny.cs",
+              "RelativeDocumentMoniker": "Models\\CourierComapny.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Models\\CourierComapny.cs",
+              "RelativeToolTip": "Models\\CourierComapny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:21:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Courier_Application.csproj",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Courier_Application.csproj",
+              "RelativeDocumentMoniker": "Courier_Application.csproj",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\Courier Application\\Courier_Application.csproj",
+              "RelativeToolTip": "Courier_Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T14:20:48.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
